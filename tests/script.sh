@@ -12,6 +12,3 @@ x=`pwd`
 mkdir testcaptures
 ./pyacmecapture.py --ip 10.65.34.1 -s 8 -d 1 -o test1 -od $x/testcaptures
 
-
-
-
